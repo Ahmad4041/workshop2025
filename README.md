@@ -1,3 +1,6 @@
 ### Test Sample 
-Create branch under yourname 
-create a file under yourname.txt
+git branch Ahmad
+git checkout Ahmad
+git add .
+git commit -m "Ahmad Task Completed"
+git push origin Ahmad
